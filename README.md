@@ -15,7 +15,6 @@
 - Go (Gin framework)
 - SQLite (modernc.org/sqlite)
 - Bcrypt для хэширования
-- JWT (в будущем)
 
 **Frontend**:
 - HTML5/CSS3 с анимациями
